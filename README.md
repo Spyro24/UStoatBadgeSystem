@@ -5,6 +5,7 @@
 |-|-|
 |00000000000000000000000000|UStoat Maintainer| 
 |00000000000000000000000001|UStoat Developer| 
+|00000000000000000000000002|Clippy|
 
 ## Build up of the Badge ID
 
